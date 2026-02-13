@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there! I'm Aryan</h2>
 
-<!--
-**XzisT33/XzisT33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/Xzist_33)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aryanpatel3/)
+[![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/XzisT33)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+Machine Learning Engineer | Buiding machines that learns!!
+
+
+<p align="center">
+  <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 2" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 3" width="100" />
+</p>
