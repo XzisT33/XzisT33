@@ -10,10 +10,3 @@
 
 
 Machine Learning Engineer | Building machines that learns!! An AI-focused ML Engineer and builder with a strong interest in designing and deploying intelligent systems powered by Machine Learning, Deep Learning, and Generative AI. My primary areas of work include Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps-driven production workflows.
-
-
-<p align="center">
-  <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
-  <img src="./images/doggo-doge.gif" alt="Doggo 2" width="100" />
-  <img src="./images/doggo-doge.gif" alt="Doggo 3" width="100" />
-</p>
