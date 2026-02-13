@@ -9,7 +9,7 @@
 </div>
 
 
-Machine Learning Engineer | Buiding machines that learns!!
+Machine Learning Engineer | Building machines that learns!!
 
 
 <p align="center">
