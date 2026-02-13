@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/Xzist_33)
+[![Twitter](https://img.shields.io/badge/Xzist_33-000000?logo=x&logoColor=white)](https://x.com/Xzist_33)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aryanpatel3/)
-[![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/XzisT33)
+[![GitHub](https://img.shields.io/badge/-XzisT33-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/XzisT33)
 
 </div>
 
