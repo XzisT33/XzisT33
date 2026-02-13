@@ -9,7 +9,7 @@
 </div>
 
 
-Machine Learning Engineer | Building machines that learns!!
+Machine Learning Engineer | Building machines that learns!! An AI-focused ML Engineer and builder with a strong interest in designing and deploying intelligent systems powered by Machine Learning, Deep Learning, and Generative AI. My primary areas of work include Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps-driven production workflows.
 
 
 <p align="center">
